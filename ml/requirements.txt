@@ -1,0 +1,6 @@
+tensorflow
+numpy
+coremltools
+keras
+scikit-learn
+matplotlib
